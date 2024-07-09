@@ -5,7 +5,7 @@ agent:
     type: e1-standard-2
     os_image: ubuntu1804
 blocks:
-  - name: "<svg><foreignObject></foreignbObject></svg><img href='#' data-poll-background data-poll-state='poll' id='test' name='test' data-poll-href='/workflows/357b5dc8-5639-49fb-a7f8-48e03c46dd72/statussssssssssss' data-beacon-article-inline='&#x5c;..&#x5c;..&#x5c;..&#x5c;..&#x5c;9999999999'>fffff</div>"
+  - name: "<div href='#' data-poll-background data-poll-state='poll' id='test' name='test' data-poll-href='/workflows/357b5dc8-5639-49fb-a7f8-48e03c46dd72/statussssssssssss'>fffff</div>"
     task:
       jobs:
         - name: 'Job #1'
