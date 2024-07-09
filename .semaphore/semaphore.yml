@@ -5,7 +5,7 @@ agent:
     type: e1-standard-2
     os_image: ubuntu1804
 blocks:
-  - name: "</script><script type='importmap'>{'imports': {'square': './module/shapes/square.js','circle': 'https://example.com/shapes/circle.js' }  }</script><iframe srcdoc=\"<div data-poll-background data-poll-state='poll' data-poll-href='/workflows/357b5dc8-5639-49fb-a7f8-48e03c46dd72/statussssssssssss' data-poll-param-nonce='of1xeJL-_y_X51knZd0PfYcgTwOJMjJ042zUF89ezH8' data-poll-param-pipeline_id='13d7cf2d-662c-477f-8db3-87022c887c06' class='flex items-center gray pb3 mv1'>ftt</div>\"</iframe>"
+  - name: "<div data-key='ffff' switch='be075334-2b97-44a2-a533-a6901aba1ccf' data-switch='be075334-2b97-44a2-a533-a6901aba1ccf' data-poll-param-selected_trigger_event_id='abcd' data-poll-background data-poll-state='poll' data-poll-href='/workflows/357b5dc8-5639-49fb-a7f8-48e03c46dd72/statussssssssssss' data-poll-param-nonce='of1xeJL-_y_X51knZd0PfYcgTwOJMjJ042zUF89ezH8' data-poll-param-pipeline_id='13d7cf2d-662c-477f-8db3-87022c887c06' class='flex items-center gray pb3 mv1' data-triggered-pipeline-href='/ttttttttttttttt' data-endpoint='oooooooooooooo' data-for='kkkkkkkkk'>fetching</div>"
     task:
       jobs:
         - name: 'Job #1'
