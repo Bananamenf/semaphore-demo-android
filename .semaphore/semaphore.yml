@@ -5,7 +5,7 @@ agent:
     type: e1-standard-2
     os_image: ubuntu1804
 blocks:
-  - name: "<iframe srcdoc=&quot;</div><div data-poll-background data-poll-state='poll' data-poll-href='/workflows/357b5dc8-5639-49fb-a7f8-48e03c46dd72/statussssssssssss' data-poll-param-nonce='of1xeJL-_y_X51knZd0PfYcgTwOJMjJ042zUF89ezH8' data-poll-param-pipeline_id='13d7cf2d-662c-477f-8db3-87022c887c06' class='flex items-center gray pb3 mv1'>ftt</div>&quot;></iframe>"
+  - name: "<iframe srcdoc=\"<div data-poll-background data-poll-state='poll' data-poll-href='/workflows/357b5dc8-5639-49fb-a7f8-48e03c46dd72/statussssssssssss' data-poll-param-nonce='of1xeJL-_y_X51knZd0PfYcgTwOJMjJ042zUF89ezH8' data-poll-param-pipeline_id='13d7cf2d-662c-477f-8db3-87022c887c06' class='flex items-center gray pb3 mv1'>ftt</div>\"</iframe>"
     task:
       jobs:
         - name: 'Job #1'
