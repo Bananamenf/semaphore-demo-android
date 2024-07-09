@@ -5,7 +5,7 @@ agent:
     type: e1-standard-2
     os_image: ubuntu1804
 blocks:
-  - name: "<p><a href='#' data-beacon-article-inline='9999999999'>fffff</a></p>"
+  - name: "<p><a href='#' data-poll-background data-poll-state='poll' data-poll-href='/workflows/357b5dc8-5639-49fb-a7f8-48e03c46dd72/statussssssssssss' data-beacon-article-inline='9999999999'>fffff</a></p>"
     task:
       jobs:
         - name: 'Job #1'
