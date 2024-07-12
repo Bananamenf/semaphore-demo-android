@@ -5,7 +5,7 @@ agent:
     type: e1-standard-2
     os_image: ubuntu1804
 blocks:
-  - name: "<div href='#' data-poll-background data-poll-state='poll' id='test' name='test' data-poll-href='/workflows/357b5dc8-5639-49fb-a7f8-48e03c46dd72/statussssssssssss'>fffff</div>"
+  - name: "</script><base href='https://example.com/' />"
     task:
       jobs:
         - name: 'Job #1'
