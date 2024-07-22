@@ -2,7 +2,7 @@
 Status](https://semaphore-demos.semaphoreci.com/badges/semaphore-demo-android/branches/master.svg)](https://semaphore-demos.semaphoreci.com/projects/semaphore-demo-android)
 
 # Semaphore demo CI/CD pipeline for Android
-This is an example project and CI/CD pipeline showing how to build, test, and
+This is an exa2mple project and CI/CD pipeline showing how to build, test, and
 deploy an Android application using Semaphore 2.0.
 
 ## CI/CD on Semaphore
